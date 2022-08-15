@@ -1,3 +1,3 @@
 # johnl-site
 
-hugo all the way
+hugo all the way dude
