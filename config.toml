@@ -14,8 +14,8 @@ theme = "hugo-minimalist-theme"
     site_description = "Blow your $."
     location = "San Francisco - Earth"
     # Link custom assets relative to /static
-    avatar = "img/profile-image.png"
-    header_background = "img/desk.jpg"
+    avatar = "images/IMG_2713.jpeg"
+    header_background = "images/IMG_2778.jpeg"
     header_title = "JohnL - Spend Frivolously"
     copyright = "Powered by [Hugo](http://gohugo.io)."
     custom_css = []
